@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello there 👋
 
+<!-- 
+General Kenobi!
+-->
 
 - 🌱 I’m currently learning Go
 - 📫 How to reach me: [my LinkedIn profile](https://www.linkedin.com/in/kevin-liyanto/)
